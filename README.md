@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Most of the project videos were for mac and were a bit dated. I ran into a few issues because of this that kept my pace slow. I worked on the project about 2 hours each night for a total of 4 nights. In the end it was an excellent exersise in using the Android project enviornment. After complpetion I felt the most overwhelmed during the early set up, implementation process, and keeping pace with the material coverd. 
 
 ## License
 
@@ -52,6 +52,6 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
+J
 
-c
 
