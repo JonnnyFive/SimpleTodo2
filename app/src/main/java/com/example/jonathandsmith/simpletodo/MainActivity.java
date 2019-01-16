@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
             // persist the changed model
             writeItems();
             //notify the user the operation completed ok
-            Toast.makeText(this, "Item updated successfully. Hopefully you got it right this time.", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Item updated successfully. Lets hope you got it right this time.", Toast.LENGTH_SHORT).show();
 
 
         }
